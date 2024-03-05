@@ -1,0 +1,382 @@
+{
+  "minerales": [
+      {
+          "code": "ECM-13",
+          "name": "Komatita en bandas estratificadas",
+          "desc": "La komatita es una roca volcánica formada a partir de magma extremadamente caliente, \nfluida y rica en magnesio que deriva del manto terrestre caliente. Su erupción fue particularmente\n común en el Precámbrico, cuando el flujo de calor en la Tierra era mayor. Esta roca fue descubierta\n en Sudáfrica en 1969, pero desde entonces se ha hallado en áreas Precámbricas alrededor del mundo.\nLas komatitas tienen por lo general una textura compuesta de olivinos en forma de cuchillos, que pueden tener de varios milímetros a varios decímetros de largo, rodeados de una matriz de clinopiroxeno esferulítico, cromita dendrítica y vidrio alterado. A esta textura característica se le conoce como spinifex.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Corrajes",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-7",
+          "name": "Arenisca con esfalerita+galena+pirita",
+          "desc": "La arenisca es una roca sedimentaria compuesta principalmente de granos de arena unidos por un cemento natural. La esfalerita, la galena y la pirita son minerales comunes que a menudo se encuentran juntos en depósitos minerales.\nLa esfalerita es un mineral de sulfuro de zinc que generalmente tiene un color entre negro y marrón.\nLa galena es un mineral de sulfuro de plomo que puede tener un aspecto plateado y cristalino.\nLa pirita es un mineral de sulfuro de hierro conocido comúnmente como \"oro de los tontos\" debido a su parecido superficial con el oro.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Parana",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-11",
+          "name": "Gabro (Hornblenda)",
+          "desc": "El gabro es una roca ígnea intrusiva de color oscuro compuesta principalmente de minerales como el feldespato y la olivina. Tiene una textura gruesa y granular debido a su formación lenta en el interior de la Tierra. La hornblenda es un mineral común en el gabro, que pertenece al grupo de los anfíboles. Tiene un color generalmente oscuro, que puede variar desde negro a verde oscuro, y a menudo se presenta en forma de cristales alargados o fibrilares. La hornblenda contribuye a las propiedades físicas y químicas del gabro, y su presencia puede influir en la resistencia y la densidad de la roca. El gabro es una roca común en la corteza oceánica y en algunas áreas continentales donde han ocurrido intrusiones magmáticas profundas.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Goias",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-17",
+          "name": "Filita Grafitosa-Boudinage de Qz",
+          "desc": "\nEl filita grafitosa es una roca metamórfica que se forma a partir de la recristalización de esquistos ricos en carbono, como el esquisto grafitoso. Esta roca contiene grafito como un componente principal, lo que le confiere su color oscuro característico y un brillo apagado. La boudinage de cuarzo se refiere a un fenómeno estructural en el que capas o lentes de cuarzo se estiran y se separan en forma de \"salchichas\" dentro de una matriz deformada, generalmente una roca metamórfica. Esto ocurre como resultado de la deformación y la presión tectónica durante el proceso metamórfico. En conjunto, el filita grafitosa con boudinage de cuarzo es una roca metamórfica que muestra una estructura compleja, con la presencia de grafito y cuarzo estirados y deformados, lo que proporciona información valiosa sobre las condiciones geológicas y los procesos que ocurrieron durante su formación.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Minas Gerais",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-10",
+          "name": "Sulfato diseminado de Níquel y Cobre",
+          "desc": "Flogopita: Es un mineral del grupo de las micas, comúnmente de color marrón, dorado o plateado. Tiene una estructura laminar y se compone de silicatos de aluminio, magnesio y potasio. Se encuentra en rocas ígneas y metamórficas.\n\nCarbonato: Los carbonatos son un grupo de minerales que comparten la estructura química del ion carbonato (CO3^2-). Algunos ejemplos de minerales de carbonato incluyen la calcita (carbonato de calcio), la dolomita (carbonato de calcio y magnesio) y la siderita (carbonato de hierro).\n\nEsmeralda: La esmeralda es una variedad verde del mineral berilo, que es un silicato de berilio y aluminio. Su color verde se debe a pequeñas cantidades de cromo y, a veces, vanadio en su composición. Es una piedra preciosa altamente valorada.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Goias",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-18",
+          "name": "Minerales de Flogita+carbonato+esmeralda",
+          "desc": "\nLa combinación de flogopita, carbonato y esmeralda no es común en la naturaleza, ya que estos minerales se forman en diferentes ambientes geológicos y bajo diferentes condiciones. Sin embargo, podría haber situaciones muy particulares donde estos minerales estén presentes juntos, aunque sería bastante inusual.\nFlogopita: Como mencioné anteriormente, la flogopita es una mica y generalmente se encuentra en rocas ígneas y metamórficas.\nCarbonato: Los carbonatos pueden estar presentes en una variedad de rocas sedimentarias, metamórficas e ígneas. Algunos ejemplos comunes incluyen la calcita, la dolomita y la siderita.\nEsmeralda: La esmeralda es una variedad de berilo, que se encuentra comúnmente en pegmatitas, rocas ígneas y metamórficas.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Goias",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-8",
+          "name": "Minerales de galena+pirita de zonas de fractura",
+          "desc": "La combinación de galena y pirita en zonas de fractura es bastante común en la naturaleza, especialmente en depósitos minerales que se forman en ambientes geológicos específicos. Aquí tienes una desc de ambos minerales:\nGalena: La galena es un mineral de sulfuro de plomo, con una apariencia metálica y un color gris plateado. Es uno de los minerales más comunes de plomo y se encuentra con frecuencia en vetas hidrotermales y depósitos sedimentarios. Es un mineral pesado y tiene una alta densidad.\nPirita: La pirita es un mineral de sulfuro de hierro conocido como \"oro de los tontos\" debido a su parecido superficial con el oro. Tiene un color dorado brillante y se encuentra en una variedad de rocas y ambientes geológicos, incluyendo filones, depósitos sedimentarios y en asociación con minerales de carbón. A menudo forma cristales cúbicos o piritoedros.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Goias",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-16",
+          "name": "Komatita-Peridotita con textura Spinifex",
+          "desc": "La komatita es una roca ígnea ultramáfica, lo que significa que tiene una composición rica en magnesio y hierro, y se forma a partir de magma muy caliente y fluido. Es una de las rocas ígneas más antiguas y se asocia comúnmente con las eras geológicas más tempranas de la Tierra.\nLa peridotita es otra roca ígnea ultramáfica que se compone principalmente de minerales como olivino y piroxeno. Es la roca dominante en el manto terrestre superior.\nLa textura spinifex es una característica distintiva de algunas komatiitas. Se caracteriza por cristales largos y entrelazados de olivino y piroxeno, que pueden parecerse a las hojas de pasto (de ahí el name \"spinifex\", que se refiere a un tipo de hierba australiana).\nPor lo tanto, una komatiita-peridotita con textura spinifex sería una roca ígnea ultramáfica que contiene principalmente olivino y piroxeno, con una textura spinifex distintiva. Estas rocas se forman en condiciones extremadamente calientes, como las que se encuentran en los flujos de lava basáltica muy fluida, típicamente asociados con ambientes volcánicos muy activos en el pasado geológico de la Tierra.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Minas Gerais",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-15",
+          "name": "Komatita-Peridotita a Dunita con textura Spinifex",
+          "desc": "La komatiita es una roca ígnea ultramáfica que se caracteriza por ser extremadamente rica en magnesio y hierro, y por lo general se forma en condiciones de alta temperatura. Por otro lado, la peridotita es otra roca ígnea ultramáfica compuesta principalmente de minerales como olivino y piroxeno, y es una parte importante del manto terrestre.\nLa dunita es una variedad de peridotita que se compone principalmente de olivino, aunque a menudo contiene algo de piroxeno y otros minerales ultramáficos. Es una roca ígnea plutónica que se forma a partir de la cristalización lenta de magma rico en magnesio bajo la corteza terrestre.\nLa textura spinifex se refiere a una estructura distintiva en ciertas rocas ígneas ultramáficas, donde los cristales se entrelazan y forman una apariencia similar a la hierba spinifex.\nEntonces, una komatiita-peridotita que se transforma en dunita con textura spinifex sería una roca ígnea que originalmente tenía la composición de una komatiita y una peridotita, pero luego experimentó procesos metamórficos que condujeron a la formación de dunita, conservando la textura spinifex característica. Este tipo de roca podría formarse bajo condiciones de metamorfismo que implican cambios en la presión y temperatura de las rocas originalmente komatiita-peridotita.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Goias",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-12",
+          "name": "Willemita, con mineral oxidado de Zn",
+          "desc": "La willemita es un mineral que también se conoce como willemite en inglés. Es un silicato de zinc que puede exhibir una variedad de colores, incluyendo verde, amarillo, naranja o rojo, dependiendo de las impurezas presentes en su estructura cristalina. La fluorescencia verde bajo luz ultravioleta es una característica distintiva de la willemita, lo que la hace útil en aplicaciones como la fabricación de fluorescentes y lámparas ultravioleta.\n\nCuando la willemita está asociada con un mineral oxidado de zinc, puede indicar la presencia de una zona de oxidación en un depósito mineral de zinc. Los minerales oxidados de zinc, como la smithsonita (carbonato de zinc) o la hemimorfita (silicato de zinc hidratado), son productos de la alteración de minerales sulfurosos de zinc, como la esfalerita. Esta oxidación puede ocurrir en la superficie o cerca de la superficie de un depósito mineral bajo la influencia de agentes oxidantes, como el agua y el oxígeno del aire.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Minas Gerais",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-4",
+          "name": "Calamina",
+          "desc": "La calamina es un término que se utiliza comúnmente para referirse a dos minerales diferentes que son fuentes de zinc:\nHemimorfita: La hemimorfita es un mineral de zinc que se presenta en forma de cristales y agregados masivos. Tiene una amplia variedad de colores que van desde el blanco hasta el azul, el verde y el marrón. A menudo se encuentra en forma de masas botroidales (conocidas como \"uvas de cinc\"), así como en cristales prismáticos. Es un mineral común en depósitos oxidados de zinc y puede formarse a través de la alteración de minerales de sulfuro de zinc.\nSmithsonita: La smithsonita es un mineral de carbonato de zinc que se encuentra en una variedad de colores, incluyendo blanco, gris, azul, verde y rosado. A menudo se presenta en forma de cristales, masas botroidales o masas granulares. Es un mineral importante como mena de zinc y puede formarse tanto en ambientes sedimentarios como en depósitos hidrotermales.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Minas Gerais",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-19",
+          "name": "Itabanites con enriquecimiento supergénico de Cu",
+          "desc": "Los itabanitas son rocas ígneas ultramáficas compuestas principalmente de olivino y piroxeno, que pueden contener cantidades menores de otros minerales como cromita y espinela. Estas rocas se encuentran comúnmente en complejos ígneos intrusivos y a menudo están asociadas con la corteza oceánica.\n\nEl enriquecimiento supergénico de cobre se refiere al proceso por el cual los minerales de cobre presentes en una roca primaria son liberados y concentrados debido a la meteorización y la acción de aguas subterráneas ricas en oxígeno. Este proceso puede llevar a la formación de depósitos de minerales de cobre secundarios, como la malaquita y la azurita, que son más fáciles de extraer que los minerales de cobre primarios.",
+          "owner": "Sita Marcos",
+          "country": "Brasil",
+          "place": "Minas Gerais",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-28",
+          "name": "Filón rico  en calcopirita y otros sulfuros",
+          "desc": "Un filón rico en calcopirita y otros sulfuros es una veta mineralizada que contiene una alta concentración de calcopirita, que es un mineral de sulfuro de cobre. Además de la calcopirita, este tipo de filón puede contener otros sulfuros metálicos como pirita, bornita, covelita, y quizás minerales de oro y plata.\n\nEste tipo de filón suele formarse en ambientes hidrotermales donde hay una concentración de soluciones ricas en sulfuros que provienen de cuerpos ígneos subterráneos. La calcopirita, siendo un mineral de cobre, es un componente importante en muchos depósitos de cobre y es una fuente valiosa de este metal.\n\nLa presencia de otros sulfuros en el filón, como la pirita y la bornita, puede indicar la presencia de metales adicionales como hierro, oro y plata, lo que puede hacer que el filón sea aún más valioso desde el punto de vista económico. Este tipo de depósito es importante para la minería y puede ser objeto de explotación para la extracción de metales valiosos.",
+          "owner": "Jorge Mideros",
+          "country": "Cuba",
+          "place": "Yacimiento de Cu",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-86",
+          "name": "Jadeita",
+          "desc": "La jadeíta es un mineral perteneciente al grupo de los piroxenos, con una composición química de NaAlSi2O6. Se considera una variedad de jade y es una de las dos principales formas de jade, siendo la otra la nefrita. La jadeíta es conocida por su color verde intenso y translúcido, aunque puede presentar una variedad de tonalidades que van desde el verde claro al verde oscuro, así como tonos blancos, grises y lavanda.\n\nLa jadeíta es altamente valorada en la joyería y la ornamentación, especialmente en las culturas asiáticas, donde el jade se considera una piedra preciosa de gran importancia cultural e histórica. Además de su uso como gema, la jadeíta también se utiliza en la fabricación de objetos decorativos, esculturas y otros artefactos debido a su belleza y durabilidad. Los principales yacimientos de jadeíta se encuentran en regiones como Myanmar (Birmania), China, Guatemala y California.",
+          "owner": "Natael Martinez",
+          "country": "Guatemala",
+          "place": "Zocopo",
+          "date": "1996"
+      },
+      {
+          "code": "ECM-40",
+          "name": "Galena",
+          "desc": "La galena es un mineral de sulfuro de plomo con la fórmula química PbS. Tiene un color gris plateado y un brillo metálico característico. La galena es uno de los minerales más comunes de plomo y es una importante mena de este metal. Se encuentra en una variedad de ambientes geológicos, incluyendo vetas hidrotermales, depósitos sedimentarios y rocas ígneas.\n\nAdemás de ser una fuente de plomo, la galena también puede contener trazas de plata, zinc, cobre y otros metales. Históricamente, ha sido una de las principales fuentes de plata y plomo utilizadas por la humanidad. Sin embargo, debido a los efectos negativos para la salud asociados con el plomo, su extracción y uso han disminuido considerablemente en los tiempos modernos.\n\nA pesar de esto, la galena sigue siendo un mineral de interés económico y se explota en algunos lugares del mundo para la obtención de plomo y otros metales asociados. También es apreciada en colecciones de minerales y se utiliza como una fuente de plomo en la industria metalúrgica.",
+          "owner": "Mario Marinez",
+          "country": "Guatemala",
+          "place": "NO DISPONIBLE",
+          "date": "1993"
+      },
+      {
+          "code": "ECM-41",
+          "name": "Bauxita meteorizada (química de Rx. calcosilicatadas)",
+          "desc": "La bauxita meteorizada es una variedad de bauxita que ha experimentado un proceso de meteorización, es decir, ha sido sometida a la acción de la intemperie y los agentes atmosféricos. Este proceso puede ocurrir en depósitos de bauxita situados en climas tropicales o subtropicales, donde la meteorización química y física puede descomponer los minerales de aluminio y otros componentes de la roca original.\n\nEn cuanto a la \"química de Rx. calcosilicatadas\", esto parece referirse a la composición mineralógica de las bauxitas meteorizadas, sugiriendo que contienen minerales calcosilicatados, que son minerales que contienen calcio, silicio y oxígeno, junto con otros elementos como aluminio, hierro y magnesio. Ejemplos de minerales calcosilicatados incluyen la epidota, la vesuvianita y la actinolita.\n\nPor lo tanto, la bauxita meteorizada con química de Rx. calcosilicatadas sería una variedad de bauxita que ha sido alterada por la meteorización y que contiene minerales calcosilicatados en su composición. Esta combinación de minerales podría influir en las propiedades y la composición química de la bauxita meteorizada, lo que puede tener implicaciones en su uso y procesamiento en la industria del aluminio.",
+          "owner": "Almir Neves",
+          "country": "Brasil",
+          "place": "río Trobejas",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-39",
+          "name": "Minerales de Blenda+Galena",
+          "desc": "La blenda y la galena son dos minerales comunes en depósitos de minerales metálicos. Aquí tienes una breve desc de cada uno:\n\n1. Blenda: También conocida como esfalerita, la blenda es un mineral de sulfuro de zinc con la fórmula química (Zn,Fe)S. Suele tener un color que va desde el amarillo al marrón, pero puede ser incolora en cristales transparentes. Es un importante mineral de mena de zinc y se encuentra en una variedad de entornos geológicos, incluyendo vetas hidrotermales, depósitos sedimentarios y rocas metamórficas.\n\n2. Galena: La galena es un mineral de sulfuro de plomo con la fórmula química PbS. Tiene un característico brillo metálico y un color que va desde el gris plateado al gris oscuro. Es la principal mena de plomo y se encuentra comúnmente en depósitos hidrotermales, así como en rocas sedimentarias asociadas con la alteración química de minerales de plomo. \n\nAmbos minerales son importantes recursos minerales y se han extraído durante siglos por su contenido de metales valiosos. La blenda y la galena a menudo se encuentran juntas en depósitos minerales, lo que puede indicar la presencia de un depósito de plomo y zinc en el área. Estos minerales son críticos en una variedad de aplicaciones industriales y tienen importancia económica significativa.",
+          "owner": "Jorge Coniglio",
+          "country": "Argentina",
+          "place": "Jujui",
+          "date": "1993"
+      },
+      {
+          "code": "ECM-37",
+          "name": "Fluorita",
+          "desc": "La fluorita, también conocida como espato de flúor, es un mineral compuesto principalmente de fluoruro de calcio, con la fórmula química CaF2. Es conocida por su amplia variedad de colores, que incluyen el púrpura, verde, azul, amarillo, rosado y transparente. La fluorita puede tener un brillo vítreo a mate, y a menudo forma cristales cúbicos o octaédricos distintivos.\n\nLa fluorita es un mineral común y se encuentra en una variedad de ambientes geológicos, incluyendo vetas hidrotermales, depósitos de tipo skarn, y rocas sedimentarias. Se utiliza en una variedad de aplicaciones industriales, incluyendo la fabricación de ácido fluorhídrico, fluoruro de hidrógeno y aluminio. Además, la fluorita es un mineral importante en la industria del vidrio y se utiliza en la fabricación de lentes ópticas y otros productos de vidrio.\n\nLa fluorita también es apreciada por su belleza y se utiliza como una gema en joyería y decoración. Algunas variedades de fluorita, especialmente aquellas que exhiben colores intensos y patrones interesantes, son altamente valoradas por los coleccionistas de minerales y gemas.",
+          "owner": "Jorge Coniglio",
+          "country": "Argentina",
+          "place": "Departamento de Calamachita",
+          "date": "1993"
+      },
+      {
+          "code": "ECM-106",
+          "name": "Zeolita",
+          "desc": "Las zeolitas son un grupo de minerales microporosos que se encuentran en numerosos tipos de rocas sedimentarias, ígneas y metamórficas. Tienen una estructura cristalina porosa que les confiere propiedades únicas, como la capacidad de intercambiar iones y absorber moléculas de agua y otros compuestos químicos. Estas propiedades hacen que las zeolitas sean extremadamente útiles en una variedad de aplicaciones industriales y comerciales, como la purificación de agua, la catálisis, la absorción de gases y líquidos, la agricultura, la construcción y más.\n\nLas zeolitas son conocidas por su estructura cristalina tridimensional de tetraedros de sílice (SiO4) y grupos de oxígeno, que forman canales y cavidades en los cuales pueden caber iones y moléculas de agua. Existen una gran variedad de zeolitas, cada una con propiedades específicas dependiendo de su composición química y estructura cristalina. Algunas zeolitas comunes incluyen la clinoptilolita, la mordenita, la analcima y la zeolita Y.\n\nLas zeolitas son altamente valoradas por su capacidad para purificar y descontaminar agua y aire, así como por su uso en la industria petroquímica, la agricultura y la medicina.",
+          "owner": "Román perez",
+          "country": "Cuba",
+          "place": "Villa Clara",
+          "date": "1990"
+      },
+      {
+          "code": "ECM-93",
+          "name": "Mármol",
+          "desc": "El mármol es una roca metamórfica compacta formada a partir de la recristalización de carbonato de calcio (generalmente en forma de calcita o dolomita) o de carbonato de magnesio en condiciones de alta temperatura y presión. Es conocido por su belleza y su amplio uso en la escultura, la construcción y la decoración.\n\nEl mármol tiene una apariencia distintiva con una superficie pulida y un brillo característico. Puede presentar una amplia gama de colores, que van desde el blanco puro hasta el negro, pasando por tonos de crema, gris, verde y rosa, dependiendo de los minerales presentes en su composición y de las impurezas que puedan estar presentes.\n\nEl mármol se utiliza en una variedad de aplicaciones arquitectónicas y decorativas, incluyendo revestimientos de suelos y paredes, encimeras de cocina y baño, esculturas, lápidas, estatuas y elementos ornamentales. Su durabilidad, resistencia al desgaste y su estética atemporal lo convierten en un material muy valorado en el mundo del diseño y la construcción. Además, el mármol es un material natural y renovable, lo que lo hace una opción sostenible para muchas aplicaciones.",
+          "owner": "Román perez",
+          "country": "Cuba",
+          "place": "Isla Juventud",
+          "date": "1990"
+      },
+      {
+          "code": "ECM-94",
+          "name": "Calcopirita (placa de muestra de mineral)",
+          "desc": "Una placa de muestra de mineral de calcopirita sería una pieza sólida o una losa del mineral calcopirita, que es un sulfuro de cobre con la fórmula química CuFeS2. La calcopirita es uno de los principales minerales de sulfuro de cobre y es una importante mena de cobre. Tiene un color amarillo latón a amarillo dorado con un brillo metálico característico.\n\nUna placa de muestra de mineral de calcopirita podría ser utilizada para exhibición, enseñanza o estudio. En la placa, se podrían observar los cristales de calcopirita, su color, brillo y otras características mineralógicas. Estas placas son comunes en colecciones geológicas y en entornos educativos para ilustrar la diversidad de minerales y su apariencia natural.",
+          "owner": "Román perez",
+          "country": "Cuba",
+          "place": "Piñar del Río",
+          "date": "1990"
+      },
+      {
+          "code": "ECM-1",
+          "name": "Celestina",
+          "desc": "La celestina es un mineral de sulfato de estroncio con la fórmula química SrSO4. Se caracteriza por su color azul claro a grisáceo y su brillo vítreo. A menudo se presenta en forma de cristales prismáticos o tabulares, aunque también puede encontrarse en forma masiva, granular o fibrosa.\n\nEste mineral es importante tanto en la industria como en la mineralogía. En la industria, la celestina se utiliza principalmente como fuente de estroncio, que tiene aplicaciones en la fabricación de fuegos artificiales, vidrios especiales, cerámicas, pinturas y productos químicos. En mineralogía, la celestina es apreciada por su belleza y por sus propiedades cristalográficas únicas, lo que la convierte en una adición valiosa a las colecciones de minerales.\n\nLa celestina se encuentra comúnmente en depósitos sedimentarios asociados con evaporitas, así como en rocas ígneas y metamórficas. Es más abundante en yacimientos localizados en Alemania, España, México, Estados Unidos y varios otros países.",
+          "owner": "Curci Marcela",
+          "country": "Argentina",
+          "place": "NO DISPONIBLE",
+          "date": "3 de julio del 2000"
+      },
+      {
+          "code": "ECM-99",
+          "name": "Vermiculita",
+          "desc": "La vermiculita es un mineral del grupo de las filosilicatos y es un hidrato de aluminio, hierro y magnesio. Su fórmula química generalmente se representa como (Mg,Fe)3(Al,Si)4O10(OH)2·4H2O. Se forma por la alteración hidrotermal o intemperismo de minerales de la familia de las micas, como la biotita o la flogopita.\n\nLa vermiculita tiene una estructura laminar similar a la de otras micas, pero con una mayor capacidad de expansión cuando se calienta. Esta propiedad la hace útil en una variedad de aplicaciones industriales y agrícolas. Al calentarse, la vermiculita se expande hasta 20 veces su tamaño original en forma de \"vermiculita exfoliada\", lo que la hace útil como material de aislamiento térmico y acústico en la construcción.\n\nAdemás, la vermiculita se utiliza en la horticultura para mejorar la retención de agua y la aireación del suelo. También se encuentra en productos de jardinería y sustratos para plantas, así como en mezclas de suelo para macetas. Debido a su capacidad para retener nutrientes y agua, la vermiculita es una opción popular como componente de sustratos de cultivo hidropónico.\n\nLa vermiculita también se utiliza en la industria química, en la fabricación de materiales ignífugos, en la filtración de líquidos y en la industria de la construcción como agente de expansión en hormigón y morteros livianos.",
+          "owner": "Donación",
+          "country": "Brasil",
+          "place": "Alagoas",
+          "date": "1988"
+      },
+      {
+          "code": "ECM-106",
+          "name": "Sulfuros",
+          "desc": "\nLos sulfuros son un grupo de minerales que contienen azufre como elemento principal, combinado con uno o más metales. Estos minerales son comunes en la corteza terrestre y tienen una amplia variedad de propiedades físicas y químicas. Algunos ejemplos comunes de sulfuros incluyen:\n\nPirita: Conocida como \"el oro de los tontos\" por su color dorado y brillo metálico, la pirita es un sulfuro de hierro con la fórmula química FeS2. Es uno de los minerales de sulfuro más comunes y se encuentra en una variedad de entornos geológicos, incluyendo rocas ígneas, metamórficas y sedimentarias.\n\nGalena: La galena es un mineral de sulfuro de plomo con la fórmula PbS. Es la principal mena de plomo y se encuentra comúnmente en depósitos hidrotermales asociados con la alteración química de minerales de plomo. Tiene un brillo metálico y un color gris plateado a negro.\n\nEsfalerita: También conocida como blenda, la esfalerita es un mineral de sulfuro de zinc con la fórmula ZnS. Es la principal mena de zinc y se encuentra en una variedad de entornos geológicos, incluyendo depósitos hidrotermales y rocas sedimentarias.\n\nCalcopirita: La calcopirita es un sulfuro de cobre y hierro con la fórmula CuFeS2. Es uno de los principales minerales de cobre y se encuentra comúnmente en depósitos hidrotermales y vetas de minerales metálicos.",
+          "owner": "Donación",
+          "country": "Brasil",
+          "place": "Río Grande-Alagoas",
+          "date": "1988"
+      },
+      {
+          "code": "ECM-102",
+          "name": "Apatito",
+          "desc": "El apatito es un mineral fosfato que se encuentra comúnmente en rocas ígneas, sedimentarias y metamórficas. Tiene una amplia variedad de colores, incluyendo blanco, verde, azul, amarillo y rosa, y su dureza varía de acuerdo con la composición química y la estructura cristalina.\n\nLa fórmula química general del apatito es Ca5(PO4)3(F,Cl,OH), lo que indica que contiene calcio, fósforo, oxígeno y uno o más aniones como flúor, cloro u hidroxilo. Debido a su contenido de fósforo, el apatito es un componente importante de los huesos y los dientes en los organismos vivos.\n\nEl apatito es un mineral de importancia económica debido a su uso en la industria de la fertilización, donde se utiliza como fuente de fósforo en la producción de fertilizantes. También se utiliza en la fabricación de productos químicos, como catalizadores en la industria petroquímica, y como ingrediente en la fabricación de vidrio y cerámica.\n\nAdemás de su importancia económica, el apatito es apreciado por su belleza y se utiliza como gema en joyería y decoración. Los cristales de apatito bien formados pueden exhibir un brillo vítreo a transparente y son valorados por los coleccionistas de minerales y gemas.",
+          "owner": "Donación",
+          "country": "Brasil",
+          "place": "Alagoas",
+          "date": "1988"
+      },
+      {
+          "code": "ECM-100",
+          "name": "Cianita",
+          "desc": "La cianita es un mineral de aluminosilicato que pertenece al grupo de los silicatos. Su fórmula química es Al2SiO5 y se caracteriza por su estructura cristalina en forma de láminas planas o prismas alargados. La cianita puede tener una variedad de colores, que incluyen azul, gris, verde, blanco y negro, dependiendo de las impurezas presentes en su composición.\n\nLa cianita es conocida por su singular propiedad de anisotropía, lo que significa que tiene diferentes propiedades físicas en diferentes direcciones. Por ejemplo, es más duro en una dirección (7 en la escala de Mohs) y más blando en otra dirección, lo que le permite ser cortado con facilidad en láminas finas. Esta característica la hace útil en la fabricación de productos cerámicos y refractarios.\n\nAdemás, la cianita se utiliza como una gema en joyería, especialmente en forma de cabujones y piezas talladas. Su color azul intenso y su brillo vítreo la hacen atractiva para su uso en piezas de joyería. Sin embargo, debido a su fragilidad y su escasez en tamaños grandes y libres de inclusiones, la cianita no es tan común como otras gemas como el zafiro o la esmeralda.\n\nLa cianita también se encuentra en entornos geológicos metamórficos, donde se forma en rocas de alta temperatura y presión. Es común en regiones donde ha ocurrido metamorfismo de contacto o regional, así como en depósitos aluviales y sedimentos transportados por corrientes.",
+          "owner": "Donación",
+          "country": "Brasil",
+          "place": "Alagoas",
+          "date": "1988"
+      },
+      {
+          "code": "ECM-98",
+          "name": "Amianto",
+          "desc": "El amianto, también conocido como asbesto, es un grupo de minerales fibrosos que se encuentran en forma natural en la corteza terrestre. Estos minerales están compuestos principalmente de silicatos de magnesio, con la adición de elementos como hierro, calcio, aluminio y otros. Los tipos más comunes de amianto son el crisotilo, la crocidolita, la amosita, la antofilita, la tremolita y la actinolita.\n\nDurante muchos años, el amianto ha sido valorado por su resistencia al calor, su capacidad aislante y su resistencia a la corrosión y la abrasión. Debido a estas propiedades, se ha utilizado ampliamente en una variedad de aplicaciones industriales, como la construcción (aislamiento térmico y acústico, techos y revestimientos), la fabricación de productos textiles (ropa ignífuga), la industria automotriz (frenos y embragues), y más.\n\nSin embargo, el amianto es altamente tóxico y puede causar enfermedades graves, como la asbestosis (una enfermedad pulmonar crónica), el cáncer de pulmón y la mesotelioma (un cáncer que afecta la pleura y otras membranas). La inhalación de fibras de amianto es la principal vía de exposición, y las enfermedades asociadas pueden tardar décadas en desarrollarse después de la exposición inicial.",
+          "owner": "Donación",
+          "country": "Guatemala",
+          "place": "Mina Campestre",
+          "date": "1988"
+      },
+      {
+          "code": "ECM-10",
+          "name": "Cordierita",
+          "desc": "La cordierita es un mineral de silicato que pertenece al grupo de los sorosilicatos. Su fórmula química es (Mg,Fe)2Al4Si5O18 y se caracteriza por su color que va desde el azul pálido al azul grisáceo, aunque también puede ser incolora, blanca, verde o marrón. Fue descubierta en 1813 por el mineralogista francés Pierre Louis Antoine Cordier, de quien toma su name.\n\nLa cordierita es conocida por su fenómeno de pleocroísmo, que significa que puede exhibir diferentes colores cuando es observada desde diferentes direcciones. Además, tiene una notable birrefringencia, lo que significa que divide la luz en dos rayos al pasar a través de ella.\n\nEste mineral se encuentra comúnmente en rocas ígneas y metamórficas, como granitos, gneises y esquistos. Se forma bajo altas temperaturas y presiones, y es frecuente en rocas metamórficas de grado medio a alto.\n\nLa cordierita se utiliza en la industria de la cerámica y la refractaria debido a su baja expansión térmica y su resistencia a altas temperaturas. También se utiliza como gema en joyería, aunque es relativamente rara debido a su fragilidad y su color menos llamativo en comparación con otras gemas. Además, la cordierita es un mineral de importancia en la geología, ya que puede ser un indicador de las condiciones de temperatura y presión durante la formación de las rocas metamórficas.",
+          "owner": "Donación",
+          "country": "Argentina",
+          "place": "canera Tamarin-Villa Soto",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-57",
+          "name": "Sheelita en filón de CaWO4",
+          "desc": "La scheelita es un mineral compuesto principalmente de tungstato de calcio (CaWO4). Es conocido por su color que varía entre el blanco, amarillo, naranja, rojo y marrón, dependiendo de las impurezas presentes. Se encuentra comúnmente en depósitos de tungsteno asociados con filones de cuarzo y rocas ígneas.\n\nCuando la scheelita se encuentra en un filón de CaWO4, esto indica la presencia de un filón mineralizado principalmente con scheelita. Los filones minerales son cuerpos rocosos estrechos y generalmente largos que contienen concentraciones económicas de minerales valiosos. En este caso, el tungstato de calcio, representado por la scheelita, es el mineral dominante en el filón.\n\nLos filones de scheelita pueden ser de interés económico debido al tungsteno, que es un metal estratégico utilizado en una variedad de aplicaciones industriales, incluyendo la fabricación de aleaciones de acero de alta velocidad, herramientas de corte, dispositivos electrónicos, y más. La exploración y explotación de estos filones pueden requerir técnicas especializadas de minería y procesamiento para extraer y recuperar el tungsteno de manera rentable. Además, el estudio de estos filones puede proporcionar información valiosa sobre la geología y la historia mineral de la región en la que se encuentran.",
+          "owner": "B.Reza",
+          "country": "España",
+          "place": "Mina La Parrillera , Merida",
+          "date": "agosto de 1986"
+      },
+      {
+          "code": "ECM-56",
+          "name": "Casiterita en filón de Qz, Sn O2",
+          "desc": "La casiterita es un mineral compuesto principalmente de dióxido de estaño (SnO2). Es conocido por su color que varía entre el marrón, negro y rojo, dependiendo de las impurezas presentes. Se encuentra comúnmente en depósitos de estaño asociados con filones de cuarzo y rocas ígneas.\n\nCuando la casiterita se encuentra en un filón de cuarzo, esto indica la presencia de un filón mineralizado principalmente con casiterita. Los filones minerales son cuerpos rocosos estrechos y generalmente largos que contienen concentraciones económicas de minerales valiosos. En este caso, el dióxido de estaño, representado por la casiterita, es el mineral dominante en el filón.\n\nLos filones de casiterita pueden ser de interés económico debido al estaño, que es un metal estratégico utilizado en una variedad de aplicaciones industriales, incluyendo la fabricación de aleaciones metálicas, soldaduras, revestimientos protectores, y más. La exploración y explotación de estos filones pueden requerir técnicas especializadas de minería y procesamiento para extraer y recuperar el estaño de manera rentable. Además, el estudio de estos filones puede proporcionar información valiosa sobre la geología y la historia mineral de la región en la que se encuentran.",
+          "owner": "B.Reza",
+          "country": "España",
+          "place": "Mina Mari",
+          "date": "agosto de 1986"
+      },
+      {
+          "code": "ECM-25",
+          "name": "Raúl Colix",
+          "desc": "NO DISPONIBLE",
+          "owner": "Antimonita en Qz.",
+          "country": "España",
+          "place": "Honduras",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-33",
+          "name": "Sinkenife",
+          "desc": "La zinkenita es un fascinante mineral de color gris acero, metálico y compuesto por sulfuro de plomo y antimonio con la fórmula química Pb9Sb22S42.",
+          "owner": "Donación",
+          "country": "Bolivia",
+          "place": "NO DISPONIBLE",
+          "date": "1988"
+      },
+      {
+          "code": "ECM-103",
+          "name": "Plata Nativa",
+          "desc": "La plata nativa es un mineral compuesto principalmente de plata (Ag) en su forma pura y natural. Es uno de los pocos minerales que se encuentra en estado metálico puro en la naturaleza. Se presenta comúnmente en forma de pepitas, filamentos, masas dendríticas o cristales octaédricos. La plata nativa es valorada por su brillo metálico y su color blanco plateado.\n\nSe encuentra principalmente en yacimientos de minerales metálicos, asociada con minerales de sulfuro de plata, como la argentita (Ag2S), y en depósitos de vetas hidrotermales, depósitos aluviales y filones de cuarzo. La plata nativa ha sido históricamente una fuente importante de plata y ha sido explotada por diversas civilizaciones a lo largo de la historia.\n\nHoy en día, la plata nativa sigue siendo una fuente de plata, aunque en menor medida que en el pasado. La mayoría de la plata se obtiene como subproducto de la extracción de otros metales, como el plomo, el zinc y el cobre. Sin embargo, la plata nativa sigue siendo valorada en la industria de la joyería y como material de colección debido a su belleza natural y su rareza en estado puro.",
+          "owner": "Donación",
+          "country": "Mexico ",
+          "place": "Zacatecas",
+          "date": "1990"
+      },
+      {
+          "code": "ECM-87",
+          "name": "Cromita-Complejo UB El Rodeo",
+          "desc": "El complejo ultramáfico El Rodeo es un complejo rocoso que se encuentra en la provincia de Málaga, España, y es conocido por ser una importante área de cromita. La cromita es un mineral de óxido de cromo y hierro (FeCr2O4) que es una importante mena de cromo, un metal utilizado en una variedad de aplicaciones industriales, incluyendo la fabricación de acero inoxidable, aleaciones de metales y pigmentos.\n\nEl complejo ultramáfico El Rodeo se compone principalmente de rocas ultramáficas, que son ricas en minerales férricos y magnésicos. Estas rocas son el ambiente geológico típico para la formación de depósitos de cromita. La cromita se encuentra comúnmente en vetas y diseminada en estas rocas ultramáficas, y su extracción se realiza a través de la minería de superficie y subterránea.\n\nLos depósitos de cromita del complejo ultramáfico El Rodeo son de interés económico debido a su contenido de cromo, que es un metal valioso en diversas industrias. La extracción y procesamiento de la cromita en esta área proporciona empleo y contribuye a la economía local. Además, el estudio de estos depósitos proporciona información valiosa sobre la geología de la región y la formación de depósitos de cromita en ambientes ultramáficos.",
+          "owner": "Donación",
+          "country": "Venezuela",
+          "place": "NO DISPONIBLE",
+          "date": "1981"
+      },
+      {
+          "code": "ECM-97",
+          "name": "Mineral de Bismutina",
+          "desc": "La bismutina es un mineral de bismuto con la fórmula química Bi2S3. Se presenta en cristales prismáticos o masas granulares de color gris plateado a negro con un brillo metálico. A veces puede exhibir iridiscencia en sus superficies.\n\nLa bismutina se forma en depósitos hidrotermales de baja temperatura, a menudo asociada con otros minerales de sulfuro de bismuto, como la bismutinita y la emplectita. También puede encontrarse en yacimientos de minerales de plata y plomo, así como en vetas de cuarzo y rocas ígneas intrusivas.\n\nAunque la bismutina es un mineral relativamente raro, es una importante mena de bismuto, que es un metal que se utiliza en aleaciones de baja fusión, en la fabricación de productos farmacéuticos y en otras aplicaciones industriales. Además, la bismutina también es valorada por coleccionistas de minerales debido a su rareza y su aspecto metálico distintivo.",
+          "owner": "Donación",
+          "country": "Honduras",
+          "place": "Mina Emarchito",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-54",
+          "name": "Veta Nazareno ",
+          "desc": "La \"Veta Nazareno\" es una conocida veta mineral ubicada en la región de Fresnillo, en el estado de Zacatecas, México. Esta región es famosa por sus importantes depósitos de plata y otros minerales metálicos. La Veta Nazareno es una de las vetas más importantes y productivas en la zona, y ha sido explotada desde hace siglos por su contenido de plata, plomo, zinc y otros minerales.\n\nLa minería en la Veta Nazareno ha sido una actividad significativa en la historia de la región, y ha contribuido en gran medida a la economía local y nacional. La veta ha sido explotada tanto a cielo abierto como en minas subterráneas, utilizando técnicas modernas de extracción de minerales.\n\nAdemás de su importancia económica, la Veta Nazareno también es de interés geológico y científico, ya que proporciona información valiosa sobre la formación de depósitos minerales en la región y la historia geológica de la zona. La investigación continua en esta área ayuda a mejorar la comprensión de los procesos geológicos y la exploración de nuevos yacimientos minerales.",
+          "owner": "Donación",
+          "country": "Perú",
+          "place": "NO DISPONIBLE",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-3",
+          "name": "Fushita-Sericita rica en Cr. (producto de alteración de la Rx. Caja)",
+          "desc": "La fuchsitasericita es un tipo de mineral de la familia de las micas que se caracteriza por contener cantidades significativas de cromo (Cr) en su composición. Este mineral se forma como resultado de la alteración hidrotermal de rocas de caja, que son las rocas encajantes que rodean o están asociadas con un depósito mineral. La alteración hidrotermal ocurre cuando las rocas encajantes son alteradas por fluidos hidrotermales que circulan a través de ellas, lo que puede cambiar su composición química y mineralógica.\n\nLa fuchsitasericita es el resultado de la alteración de minerales preexistentes en la roca de caja, como las micas primarias, por ejemplo, la biotita o la moscovita. La incorporación de cromo en la estructura de la sericita y la fuchsite da como resultado una mica verde brillante que es característica de ciertos tipos de alteración hidrotermal.\n\nLa presencia de fuchsitasericita rica en cromo puede ser un indicador importante para la exploración de depósitos minerales, ya que ciertos tipos de alteración hidrotermal están asociados con la presencia de minerales metálicos de interés económico. El estudio de la mineralogía y geoquímica de la fuchsitasericita puede proporcionar información valiosa sobre la naturaleza y el potencial de los depósitos minerales en una determinada área.",
+          "owner": "Donato Hoyos",
+          "country": "Perú",
+          "place": "Compañía Minera Poderosa-veta consuelo, sector norte del batolito de Pataz, dirita rica en hornblenda mayor al 50%",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-2",
+          "name": "Veta Nazareno ",
+          "desc": "La \"Veta Nazareno\" es una famosa veta mineral ubicada en el distrito minero de Fresnillo, en el estado de Zacatecas, México. Este distrito minero es conocido por ser uno de los más ricos en depósitos de plata en el mundo. La Veta Nazareno es una de las vetas más importantes y productivas de la región.\n\nLa minería en la Veta Nazareno ha sido una actividad significativa desde hace varios siglos, contribuyendo en gran medida a la economía de la región y del país. Se han extraído minerales como la plata, plomo, zinc y otros metales valiosos de esta veta.\n\nLa Veta Nazareno ha sido explotada tanto a cielo abierto como en minas subterráneas. A lo largo de los años, se han utilizado diversas técnicas de extracción para acceder a los minerales en profundidad. La explotación de esta veta ha sido clave para el desarrollo económico de la región y ha dejado un importante legado en la historia minera de México.",
+          "owner": "Donación",
+          "country": "Perú",
+          "place": "NO DISPONIBLE",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-53",
+          "name": "Qz+ pirita-Au",
+          "desc": "La combinación de cuarzo (Qz) y pirita (FeS2) con oro (Au) se refiere a la presencia de estos minerales juntos en un depósito mineral. Esta asociación mineralógica es común en ciertos tipos de yacimientos auríferos, donde el oro está presente junto con minerales de cuarzo y pirita.\n\nEl cuarzo es uno de los minerales más abundantes en la corteza terrestre y es conocido por su dureza, transparencia y variedad de colores. Se encuentra en una amplia gama de ambientes geológicos y es común en depósitos de oro, ya que puede actuar como un huésped para el oro disuelto en soluciones hidrotermales.\n\nLa pirita es un mineral de sulfuro de hierro que se presenta en forma de cristales cúbicos o masas granulares. A menudo se asocia con depósitos de oro debido a su presencia en ambientes hidrotermales donde se forma oro disuelto en soluciones ricas en sulfuros.\n\nEl oro se encuentra en estos depósitos principalmente en forma de pequeñas partículas microscópicas diseminadas en el cuarzo y la pirita, aunque también puede presentarse en forma de pepitas o filones. La combinación de cuarzo, pirita y oro es un indicador valioso para los exploradores mineros en la búsqueda de depósitos auríferos y puede ser una fuente importante de producción de oro en la industria minera.",
+          "owner": "Donación",
+          "country": "Venezuela",
+          "place": "NO DISPONIBLE",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-52",
+          "name": "Veta Nazareno ",
+          "desc": "La \"Veta Nazareno\" es una prominente veta mineral situada en el distrito minero de Fresnillo, en el estado de Zacatecas, México. Este distrito minero es reconocido a nivel mundial por sus ricos yacimientos de plata, y la Veta Nazareno es una de las vetas más importantes y prolíficas en la región.\n\nLa minería en la Veta Nazareno ha sido una actividad significativa durante siglos, contribuyendo de manera significativa a la economía local y nacional. Se han extraído diversos minerales valiosos de esta veta, incluyendo plata, plomo, zinc y otros metales.\n\nLa Veta Nazareno ha sido objeto de operaciones mineras tanto a cielo abierto como subterráneas. A lo largo de los años, se han empleado diversas técnicas de extracción para acceder a los minerales en profundidad. La explotación de esta veta ha sido esencial para el desarrollo económico de la región y ha dejado un importante legado en la historia minera de México.",
+          "owner": "Donación",
+          "country": "Perú",
+          "place": "NO DISPONIBLE",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-50",
+          "name": "Anhidrita",
+          "desc": "La anhidrita es un mineral perteneciente al grupo de los sulfatos. Su fórmula química es CaSO4 y se compone principalmente de sulfato de calcio. Se presenta comúnmente en forma de cristales incoloros, blancos o grises, aunque también puede ser amarillenta o azulada en algunas ocasiones. Tiene una estructura cristalina similar a la del yeso, pero es menos común y se forma en condiciones geológicas diferentes.\n\nLa anhidrita se encuentra típicamente en depósitos sedimentarios y evaporíticos, donde se forma por la precipitación de soluciones acuosas ricas en sulfato de calcio. Puede ocurrir en asociación con otros minerales evaporíticos como la halita (sal de roca) y la calcita.\n\nA nivel industrial, la anhidrita tiene varios usos, incluyendo la fabricación de cemento Portland, como agente de secado en la construcción y como relleno en la industria de los plásticos. También se utiliza en la industria química para la producción de ácido sulfúrico y otros compuestos de sulfato. Además, se ha utilizado históricamente como un mineral ornamental y se ha tallado en gemas o utilizada en joyería, aunque es menos común para este propósito que otras piedras preciosas.",
+          "owner": "Donación",
+          "country": "Costa Rica",
+          "place": "NO DISPONIBLE",
+          "date": "NO DISPONIBLE"
+      },
+      {
+          "code": "ECM-9",
+          "name": "Arena magnetiféra",
+          "desc": "La \"arena magnetifera\" es un término que puede referirse a una arena que contiene minerales magnéticos, como la magnetita (Fe3O4) o la ilmenita (FeTiO3), que exhiben propiedades magnéticas. Estos minerales pueden ser atraídos por un imán debido a su composición química y estructura cristalina.\n\nLa magnetita es uno de los minerales magnéticos más comunes y se encuentra ampliamente distribuida en todo el mundo. Se presenta en forma de cristales octaédricos o masas granulares de color negro y brillo metálico. Es un mineral importante en la industria del hierro y se utiliza en la fabricación de acero y como agente de densificación en hormigones y asfaltos magnéticos.\n\nLa ilmenita también es un mineral magnético que se encuentra en arenas y depósitos de placeres, y es una fuente importante de titanio, un metal utilizado en la fabricación de aleaciones ligeras, pigmentos blancos y revestimientos antiadherentes.\n\nLa presencia de minerales magnéticos en la arena puede tener diversas aplicaciones, como la separación magnética en la industria minera para la concentración de minerales o la prospección de depósitos de placeres de arena magnética para la extracción de minerales valiosos.",
+          "owner": "Donación",
+          "country": "Costa Rica",
+          "place": "NO DISPONIBLE",
+          "date": "NO DISPONIBLE"
+      }
+  ]
+}

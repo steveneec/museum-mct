@@ -1,0 +1,89 @@
+.content {
+  padding: 100px 20px;
+  color: #514943;
+}
+
+.stones {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 40px;
+}
+
+.stoneCard {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+  border: 1px solid #eee5ac;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s;
+  position: relative;
+}
+
+.stoneCard:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  background-color: #eee5ac;
+  transition: all 0.3s;
+}
+
+.stoneCardImage {
+  width: 100px;
+  height: 100px;
+  border-radius: 200px;
+  background-color: #eee5ac;
+  object-fit: contain;
+}
+
+.stoneCardName {
+  text-overflow: ellipsis;
+  word-break: break-all;
+  color: #514943;
+}
+
+.code {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  z-index: 999;
+  background-color: #514943;
+  color: #eee5ac;
+  padding: 2px 10px;
+  border-radius: 10px;
+}
+
+.stoneCard small {
+  align-self: flex-start;
+}
+
+@media (min-width: 768px) {
+  .content {
+    padding: 100px 20px;
+    margin: 0 auto;
+  }
+
+  .stones {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+
+    .content {
+        padding: 100px 100px;
+        margin: 0 auto;
+      }
+
+  .stones {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+    .stones {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
