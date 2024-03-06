@@ -24,8 +24,6 @@ const rs = Rosarivo({
 });
 
 export default function App() {
-  const [showModal, setShowModal] = useState(true);
-
   const stones = [
     {
       code: "ECM-13",
@@ -220,11 +218,6 @@ export default function App() {
       <section id="footer">
         <Footer />
       </section>
-      {showModal && (
-        <div className={styles.modal}>
-          <div className={styles.modalContent}></div>
-        </div>
-      )}
     </main>
   );
 }
