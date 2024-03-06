@@ -1,39 +1,68 @@
+"use client";
 import Footer from "@/components/Footer/Footer";
 import NavBar from "@/components/NavBar/NavBar";
+import { useEffect, useState } from "react";
+import { Unity, useUnityContext } from "react-unity-webgl";
 
 export default function Tour() {
+  const { unityProvider } = useUnityContext({
+    loaderUrl: "build/final.loader.js",
+    dataUrl: "build/final.data",
+    frameworkUrl: "build/final.framework.js",
+    codeUrl: "build/final.wasm",
+  });
+
+  const [windowWidth, setWindowWidth] = useState(0);
+
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth > 1200) {
+        setWindowWidth(1200);
+      } else {
+        setWindowWidth(window.innerWidth);
+      }
+    };
+
+    handleResize();
+
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
   return (
-    <main>
-      <NavBar />
-      <section style={{marginTop: 100}}>
-        <div style={{ width: "100%", margin: "0 auto" }}>
+    <>
+      <main>
+        <NavBar />
+        <div
+          style={{
+            position: "relative",
+            margin: "100px auto",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <Unity
+            unityProvider={unityProvider}
+            style={{ width: windowWidth, height: (windowWidth / 16) * 9 }}
+          />
           <div
             style={{
-              position: "relative",
-              paddingBottom: "56.25%",
-              paddingTop: 0,
-              height: 0,
+              position: "absolute",
+              width: 24,
+              height: 24,
+              opacity: 0.75,
+              backgroundSize: "cover",
+              left: "calc(50% - 12px)",
+              top: "calc(50% - 12px)",
+              backgroundImage: "url('cursor.png')",
             }}
-          >
-            <iframe
-              title="Museo Ciencias de la Tierra"
-              frameBorder="0"
-              width="1200px"
-              height="675px"
-              style={{
-                position: "absolute",
-                top: 0,
-                left: 0,
-                width: "100%",
-                height: "100%",
-              }}
-              src="https://museo-ciencias.netlify.app/"
-              scrolling="yes"
-            ></iframe>
-          </div>
+          />
         </div>
-      </section>
-      <Footer />
-    </main>
+        <Footer />
+      </main>
+    </>
   );
 }

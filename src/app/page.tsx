@@ -1,3 +1,4 @@
+"use client";
 import { DM_Serif_Display, Space_Grotesk, Rosarivo } from "next/font/google";
 import styles from "./home.module.css";
 import NavBar from "@/components/NavBar/NavBar";
@@ -12,6 +13,7 @@ import stone13 from "../resources/images/stones/ecm-13.png";
 import stone7 from "../resources/images/stones/ecm-7.png";
 import stone11 from "../resources/images/stones/ecm-11.png";
 import stone17 from "../resources/images/stones/ecm-17.png";
+import { useState } from "react";
 
 const dm = DM_Serif_Display({ subsets: ["latin"], weight: "400" });
 const sg = Space_Grotesk({ subsets: ["latin"] });
@@ -22,6 +24,8 @@ const rs = Rosarivo({
 });
 
 export default function App() {
+  const [showModal, setShowModal] = useState(true);
+
   const stones = [
     {
       code: "ECM-13",
@@ -94,6 +98,22 @@ export default function App() {
             </div>
           </div>
         </div>
+      </section>
+      <section className={styles.sectionTour}>
+        <h2 className={`${rs.className} ${styles.learn}`}>Recorrido Virtual</h2>
+        <p className={`${styles.learnDescription}`}>
+          La simulación del Museo de Ciencias de la Tierra de la Universidad
+          Central del Ecuador es una experiencia interactiva en línea que
+          permite a los visitantes explorar y aprender sobre diversos aspectos
+          relacionados con las ciencias de la Tierra.
+        </p>
+        <a href="/tour">
+          <div className={styles.tourImage}>
+            <div className={styles.tourImageOverlay}>
+              <p className={styles.tourVisit}>Visitar Museo</p>
+            </div>
+          </div>
+        </a>
       </section>
       <section className={styles.gameSection} id="games">
         <h2 className={`${rs.className} ${styles.learn}`}>Aprende Jugando</h2>
@@ -169,22 +189,6 @@ export default function App() {
           VER MÁS
         </a>
       </section>
-      <section className={styles.sectionTour}>
-        <h2 className={`${rs.className} ${styles.learn}`}>Recorrido Virtual</h2>
-        <p className={`${styles.learnDescription}`}>
-          La simulación del Museo de Ciencias de la Tierra de la Universidad
-          Central del Ecuador es una experiencia interactiva en línea que
-          permite a los visitantes explorar y aprender sobre diversos aspectos
-          relacionados con las ciencias de la Tierra.
-        </p>
-        <a href="/tour">
-          <div className={styles.tourImage}>
-            <div className={styles.tourImageOverlay}>
-              <p className={styles.tourVisit}>Visitar Museo</p>
-            </div>
-          </div>
-        </a>
-      </section>
       <div>
         <section className={styles.infoSection}>
           <h2 className={`${rs.className} ${styles.learn}`}>
@@ -213,10 +217,14 @@ export default function App() {
           </div>
         </section>
       </div>
-
       <section id="footer">
         <Footer />
       </section>
+      {showModal && (
+        <div className={styles.modal}>
+          <div className={styles.modalContent}></div>
+        </div>
+      )}
     </main>
   );
 }

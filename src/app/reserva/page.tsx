@@ -5,7 +5,7 @@ export default function Reserva() {
   return (
     <main>
       <NavBar />
-      <section style={{ marginTop: 100 }}>
+      <section>
         <div style={{ width: "100%", margin: "0 auto" }}>
           <div
             style={{
@@ -19,7 +19,7 @@ export default function Reserva() {
               title="Museo Ciencias de la Tierra"
               frameBorder="0"
               width="1200px"
-              height="675px"
+              height="100%"
               style={{
                 position: "absolute",
                 top: 0,

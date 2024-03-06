@@ -323,6 +323,25 @@
   margin-top: 20px;
 }
 
+.modal {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000000a7;
+  z-index: 99999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalContent {
+  width: 90%;
+  padding: 20px;
+  background-color: white;
+}
+
 @media (min-width: 768px) {
   .heroOverlay {
     padding: 120px 200px;

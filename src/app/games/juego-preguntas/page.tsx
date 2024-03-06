@@ -5,7 +5,7 @@ export default function Game() {
   return (
     <main>
       <NavBar/>
-      <section style={{marginTop: 100}}>
+      <section style={{marginTop: 100, marginBottom: 60}}>
         <div style={{ width: "100%", margin: "0 auto" }}>
           <div
             style={{
